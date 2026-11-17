@@ -24,6 +24,7 @@ const resultScreen = document.getElementById("resultScreen");
 const usernameInput = document.getElementById("username");
 
 const startButton = document.getElementById("startButton");
+const viewResultsButton = document.getElementById("viewResultsButton");
 
 const questionCounter = document.getElementById("questionCounter");
 const progressPercentage = document.getElementById("progressPercentage");
@@ -56,6 +57,10 @@ const copyFeedback = document.getElementById("copyFeedback");
 function saveProgress() {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
 }
+
+viewResultsButton.addEventListener("click", () => {
+    displayResults();
+});
 
 
 function loadProgress() {
@@ -104,6 +109,16 @@ async function loadQuestions() {
         loadProgress();
 
         usernameInput.value = state.username;
+
+        // Afficher le bouton des résultats si un questionnaire a déjà été rempli
+        const hasSavedResults = questions.some(question => {
+            const id = String(question.questionId);
+            return isAnswerComplete(question, state.answers[id]);
+        });
+
+        if (hasSavedResults) {
+            viewResultsButton.classList.remove("hidden");
+        }
 
     } catch (error) {
 

@@ -151,6 +151,19 @@
       ]
     },
     {
+      "questionId": 83,
+      "question": "🌸 Comment aimes-tu qu'on touche ta bite ?",
+      "reponses": [
+        "Caresser le gland",
+        "Caresser tout le long",
+        "Attraper en pleine main et branler",
+        "Toucher la bite et les couilles en même temps",
+        "Tout, je veut être travaillé",
+        "Je n'aime pas ça",
+        "Je ne suis pas concerné"
+      ]
+    },    
+    {
       "questionId": 13,
       "question": "🌿 Préfères-tu ton/ta partenaire épilé(e) ou naturel(le) ?",
       "reponses": [
@@ -918,6 +931,18 @@
     },
     {
       "questionId": 81,
+      "question": "🍺 Le sexe sous substance, ça te tente ?",
+      "reponses": [
+        "Oui alcool", 
+        "Oui drogues",
+        "Oui cannabis",
+        "Oui tout",
+        "Je pratique déjà",
+        "Non"
+      ]
+    },   
+    {
+      "questionId": 82,
       "question": "🔥 As-tu prévu(e) de faire l'amour aujourd'hui ?",
       "reponses": [
         "Oui", 
@@ -925,6 +950,6 @@
         "Si mon/ma partenaire me chauffe",
         "Non"
       ]
-    }    
+    }
   ]
 }
