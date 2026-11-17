@@ -1,0 +1,930 @@
+{
+  "questions": [
+    {
+      "questionId": 1,
+      "question": "🔥 À quelle fréquence hebdomadaire aimerais-tu faire l'amour idéalement ?",
+      "reponses": [
+        "Tous les jours",
+        "Tous les deux jours",
+        "Deux fois par semaine",
+        "Trois fois par semaine",
+        "Quatre fois par semaine",
+        "Une fois par semaine",
+        "Moins d'une fois par semaine"
+      ]
+    },
+    {
+      "questionId": 2,
+      "question": "⏱️ Ton moment préféré de la journée pour faire l'amour ?",
+      "reponses": [
+        "Le matin au réveil",
+        "Le matin",
+        "Le midi",
+        "L'après-midi",
+        "En fin de journée",
+        "En soirée",
+        "La nuit",
+        "En plein milieu de la nuit",
+        "Peu importe"
+      ]
+    },
+    {
+      "questionId": 3,
+      "question": "🌙 Combien de fois aimerais-tu faire l'amour en une même journée/nuit ?",
+      "reponses": [
+        "Une fois",
+        "Deux fois",
+        "Trois fois",
+        "Tant que le corps suit",
+        "Peu importe"
+      ]
+    },
+    {
+      "questionId": 4,
+      "question": "📅 Aimerais-tu des rendez-vous coquins planifiés en avance ?",
+      "reponses": [
+        "Oui, j'aime l'attente",
+        "Oui, parfois",
+        "Non, je préfère le spontané",
+        "Un mix des deux"
+      ]
+    },
+    {
+      "questionId": 5,
+      "question": "❤️ Sur une échelle de 1 à 10, quelle importance a la sexualité dans ton couple idéalement ?",
+      "reponses": [
+        "4 et moins",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    {
+      "questionId": 6,
+      "question": "🎞️ Regardes-tu du contenu érotique/du porno ?",
+      "reponses": [
+        "Oui souvent",
+        "Oui parfois",
+        "Rarement",
+        "Quand je suis seul",
+        "Jamais"
+      ]
+    },
+    {
+      "questionId": 7,
+      "question": "🎞️ Aimerais-tu regarder du contenu érotique/du porno avec ton/ta partenaire ?",
+      "reponses": [
+        "Oui souvent",
+        "Oui parfois",
+        "Oui mais que lorsque nous avons bu",
+        "Rarement",
+        "Non"
+      ]
+    },
+    {
+      "questionId": 8,
+      "question": "🔥 Le meilleur moyen de te chauffer ?",
+      "reponses": [
+        "Par la parole",
+        "Avec des messages",
+        "En me touchant/caressant",
+        "En m'embrassant chaudement",
+        "En me claquant contre un mur",
+        "Autre (Préciser)"
+      ]
+    },
+    {
+      "questionId": 9,
+      "question": "💋 Quelle est ta partie du corps préférée chez ton/ta partenaire ?",
+      "reponses": [
+        "Les yeux",
+        "Les lèvres",
+        "Le torse/Les seins",
+        "Le ventre",
+        "Les fesses",
+        "Les cuisses",
+        "Les mains",
+        "Autre (Préciser)"
+      ]
+    },
+    {
+      "questionId": 10,
+      "question": "💋 Quelle partie de ton corps aimes-tu qu'on caresse en priorité ?",
+      "reponses": [
+        "Les lèvres/le cou",
+        "Le torse/Les seins",
+        "Le ventre",
+        "Les cuisses",
+        "Les fesses",
+        "Le dos",
+        "Le sexe",
+        "Autre (Préciser)"
+      ]
+    },
+    {
+      "questionId": 11,
+      "question": "🍒 Comment aimes-tu qu'on touche tes seins ?",
+      "reponses": [
+        "Caresser doucement",
+        "Malaxer fermement",
+        "Pincer les tétons",
+        "Aspirer/mordre les tétons",
+        "Tout, très fort",
+        "Je n'aime pas ça",
+        "Je ne suis pas concerné"
+      ]
+    },
+    {
+      "questionId": 12,
+      "question": "🌸 Comment aimes-tu qu'on touche ta chatte ?",
+      "reponses": [
+        "Effleurer doucement les lèvres",
+        "Caresser le clitoris en cercles",
+        "Caresser le clitoris rapidement",
+        "Doigter en profondeur",
+        "Tout, je veux être travaillée",
+        "Je n'aime pas ça",
+        "Je ne suis pas concerné"
+      ]
+    },
+    {
+      "questionId": 13,
+      "question": "🌿 Préfères-tu ton/ta partenaire épilé(e) ou naturel(le) ?",
+      "reponses": [
+        "Totalement épilé(e)",
+        "Bien entretenu",
+        "Naturel(le)",
+        "Peu importe"
+      ]
+    },
+    {
+      "questionId": 14,
+      "question": "👅 Aimes-tu le goût/l'odeur de ton/ta partenaire (sexe, peau, sueur) ?",
+      "reponses": [
+        "Oui, j'en suis fou/folle",
+        "Oui, ça m'excite",
+        "Ça dépend de l'hygiène du moment",
+        "Non"
+      ]
+    },
+    {
+      "questionId": 15,
+      "question": "🗣️ Aimes-tu les mots crus / le dirty talk pendant l'acte ?",
+      "reponses": [
+        "Oui, beaucoup",
+        "Oui, avec modération",
+        "Ça dépend du moment",
+        "Non, je préfère les tendresses"
+      ]
+    },
+    {
+      "questionId": 16,
+      "question": "🔊 Aimes-tu être bruyant(e) pendant l'acte ?",
+      "reponses": [
+        "Oui, j'assume",
+        "Oui, mais je me retiens",
+        "Ça dépend du lieu",
+        "Parfois",
+        "Non, je suis discret(e)"
+      ]
+    },
+    {
+      "questionId": 17,
+      "question": "📷 Aimerais-tu faire un shooting photo sexy/boudoir et/ou explicite avec ton/ta partenaire ?",
+      "description" : "Photos à garder uniquement pour vous"      ,
+      "reponses": [
+        "Oui sexy/boudoir",
+        "Oui explicite",
+        "Oui pour les deux",
+        "Oui mais plus tard",
+        "Je ne sais pas",
+        "Non"
+      ]
+    },
+    {
+      "questionId": 18,
+      "question": "📷 Aimerais-tu envoyer des photos sexy/boudoir et/ou explicite à ton/ta partenaire ?",
+      "description" : "Photos à garder uniquement pour vous"      ,
+      "reponses": [
+        "Oui sexy/boudoir",
+        "Oui explicite",
+        "Oui pour les deux",
+        "Oui mais plus tard",
+        "Je ne sais pas",
+        "Non"
+      ]
+    },
+    {
+      "questionId": 19,
+      "question": "📷 Aimerais-tu recevoir des photos sexy/boudoir et/ou explicite de ton/ta partenaire ?",
+      "description" : "Photos à garder uniquement pour vous"      ,
+      "reponses": [
+        "Oui sexy/boudoir",
+        "Oui explicite",
+        "Oui pour les deux",
+        "Oui mais plus tard",
+        "Je ne sais pas",
+        "Non"
+      ]
+    },
+    {
+      "questionId": 20,
+      "question": "📱 Aimerais-tu faire du sexting avec ton/ta partenaire quand vous êtes séparés ?",
+      "description" : "Photos à garder uniquement pour vous",
+      "reponses": [
+        "Oui, souvent",
+        "Oui, parfois",
+        "Oui mais plus tard",
+        "Je ne sais pas",
+        "Non"
+      ]
+    },
+    {
+      "questionId": 21,
+      "question": "📞 Aimerais-tu avoir des rapports par téléphone / appel coquin à distance ?",
+      "reponses": [
+        "Oui",
+        "Oui mais plus tard",
+        "Je ne sais pas",
+        "Non"
+      ]
+    },
+    {
+      "questionId": 22,
+      "question": "⏳ Quelle est ta durée idéale des préliminaires ?",
+      "reponses": [
+        "Rapide (5 min)",
+        "Courte (10 min)",
+        "Moyenne (20 min)",
+        "Longue (30 min et +)",
+        "Variable selon l'humeur"
+      ]
+    },
+    {
+      "questionId": 23,
+      "question": "🥵 Quelle est ta position de préliminaire préférée ?",
+      "description": "Tu peux trouver des positions ici : https://sexinfo101.com/positions/c/all-oral",
+      "reponses": [
+        "69",
+        "69 Inversé",
+        "69 sur le côté",
+        "L'avaleuse de sabres",
+        "69 Courbé",
+        "69 Assis",
+        "69 Elevé",
+        "69 Agenouillé",
+        "69 Ouvert",
+        "69 Enveloppé",
+        "Autre"
+      ]
+    },
+    {
+      "questionId": 24,
+      "question": "🥵 Une position de préliminaire que tu aimerais essayer ?",
+      "description": "Tu peux trouver des positions ici : https://sexinfo101.com/positions/c/all-oral",      
+      "reponses": [
+        "69",
+        "69 Inversé",
+        "69 sur le côté",
+        "L'avaleuse de sabres",
+        "69 Courbé",
+        "69 Assis",
+        "69 Elevé",
+        "69 Agenouillé",
+        "69 Ouvert",
+        "69 Enveloppé",
+        "Autre (Préciser)"
+      ]
+    },
+    {
+      "questionId": 25,
+      "question": "🥵 Le préliminaire que tu préfères donner à ton/ta partenaire ?",
+      "description": "Tu peux trouver des positions ici : https://sexinfo101.com/positions/c/all-oral",      
+      "reponses": [
+        "Handjob/Doigtage",
+        "Fellation/Cunnilingus",
+        "Embrasser/caresser tout le corps",
+        "Branlette espagnole",
+        "Frottage sexe/sexe",
+        "Frotage sexe/partie du corps",
+        "Autre (Préciser)"
+      ]
+    },
+    {
+      "questionId": 26,
+      "question": "🥵 Le préliminaire que tu préfères recevoir de ton/ta partenaire ?",
+      "description": "Tu peux trouver des positions ici : https://sexinfo101.com/positions/c/all-oral",      
+      "reponses": [
+        "Handjob/Doigtage",
+        "Fellation/Cunnilingus",
+        "Embrasser/caresser tout le corps",
+        "Branlette espagnole",
+        "Frottage sexe/sexe",
+        "Frotage sexe/partie du corps",
+        "Autre (Préciser)"
+      ]
+    },
+    {
+      "questionId": 27,
+      "question": "🔥 À quelle fréquence aimerais-tu recevoir des gâteries de ton/ta partenaire ?",
+      "reponses": [
+        "Tous les jours",
+        "Régulièrement",
+        "Plusieurs fois par semaine",
+        "Une fois par semaine",
+        "Quelques fois par mois",
+        "Une fois par mois",
+        "Rarement",
+        "Jamais"
+      ]
+    },
+    {
+      "questionId": 28,
+      "question": "🔥 À quelle fréquence aimerais-tu faire des gâteries à ton/ta partenaire ?",
+      "reponses": [
+        "Tous les jours",
+        "Régulièrement",
+        "Plusieurs fois par semaine",
+        "Une fois par semaine",
+        "Quelques fois par mois",
+        "Une fois par mois",
+        "Rarement",
+        "Jamais"
+      ]
+    },
+    {
+      "questionId": 29,
+      "question": "🍆 Comment préfères-tu donner/recevoir une fellation ?",
+      "reponses": [
+        "Douce et lente",
+        "Profonde et intense",
+        "En utilisant bien la langue tout le long",
+        "Avec les mains en même temps",
+        "En laissant l'autre tout contrôler",
+        "Autre (Préciser)"
+      ]
+    },
+    {
+      "questionId": 30,
+      "question": "🌸 Comment préfères-tu donner/recevoir un cunnilingus ?",
+      "reponses": [
+        "Doux et langoureux",
+        "Intense et rapide",
+        "En alternant les zones",
+        "En y ajoutant les doigts",
+        "Autre (Préciser)"
+      ]
+    },
+    {
+      "questionId": 31,
+      "question": "👅 Aimes-tu que les couilles / les lèvres soient léchées et aspirées ?",
+      "reponses": [
+        "Oui, beaucoup",
+        "Oui, avec douceur",
+        "Bof",
+        "Parfois",
+        "Non"
+      ]
+    },
+    {
+      "questionId": 32,
+      "question": "🍆 Aimerais-tu essayer / pratiquer la gorge profonde (deepthroat) ?",
+      "reponses": [
+        "Je le pratique déjà",
+        "Oui, j'adore l'idée",
+        "Oui mais plus tard",
+        "Je ne sais pas",
+        "Non, trop inconfortable"
+      ]
+    },
+    {
+      "questionId": 33,
+      "question": "🤲 Aimerais-tu plus de doigts / caresses pendant les préliminaires ?",
+      "reponses": [
+        "Oui, beaucoup plus",
+        "Oui, un peu plus",
+        "Comme actuellement",
+        "Non"
+      ]
+    },
+    {
+      "questionId": 34,
+      "question": "💦 Aimerais-tu qu'on te fasse jouir d'abord avant la pénétration ?",
+      "reponses": [
+        "Oui, systématiquement",
+        "Oui, souvent",
+        "Parfois",
+        "Non, je préfère pendant"
+      ]
+    },
+    {
+      "questionId": 35,
+      "question": "💋 Aimerais-tu essayer le massage sensuel avec huile/bougie ?",
+      "reponses": [
+        "Oui",
+        "Oui mais plus tard",
+        "Je ne sais pas",
+        "Non"
+      ]
+    },
+    {
+      "questionId": 36,
+      "question": "🍎 Aimerais-tu intégrer des aliments / jeux gourmands au lit ?",
+      "reponses": [
+        "Oui",
+        "Oui mais plus tard",
+        "Je ne sais pas",
+        "Non"
+      ]
+    },
+    {
+      "questionId": 37,
+      "question": "🥵 Quelle est ta position de pénétration préférée ?",
+      "description": "Tu peux trouver des positions ici : https://sexinfo101.com/positions/c/all-sex",      
+      "reponses": [
+        "Missionnaire",
+        "Levrette",
+        "Cowgirl",
+        "Reverse Cowgirl",
+        "Cuillère",
+        "Lotus",
+        "Autre"
+      ]
+    },
+    {
+      "questionId": 38,
+      "question": "🥵 Une position de pénétration que tu aimerais essayer ?",
+      "description": "Tu peux trouver des positions ici : https://sexinfo101.com/positions/c/all-sex",      
+      "reponses": [
+        "Missionnaire",
+        "Levrette",
+        "Cowgirl",
+        "Reverse Cowgirl",
+        "Cuillère",
+        "Lotus",
+        "Autre"
+      ]
+    },
+    {
+      "questionId": 39,
+      "question": "🍆 Comment préfères-tu la pénétration ?",
+      "reponses": [
+        "Lente et profonde",
+        "Lente et superficielle (Juste le gland)",
+        "Lente et moyenne (ne pas rentrer l'intégralité)",
+        "Rapide et profonde",
+        "Rapide et superficielle (Juste le gland)",
+        "Rapide et moyenne (ne pas rentrer l'intégralité)",
+        "Variable selon le moment"
+      ]
+    },
+    {
+      "questionId": 40,
+      "question": "⏱️ Quel rythme préfères-tu pendant l'acte ?",
+      "reponses": [
+        "Tout en lenteur et excitation",
+        "Progressif puis accéléré",
+        "Rapide d'entrée de jeu",
+        "Alternance lents/rapides",
+        "Ça dépend de mon humeur"
+      ]
+    },
+    {
+      "questionId": 41,
+      "question": "⏳ Quelle est ta durée idéale de la pénétration ?",
+      "reponses": [
+        "Un quickie (moins de 5 min)",
+        "10-15 minutes",
+        "20-30 minutes",
+        "Une heure ou plus",
+        "Peu importe tant que c'est bon",
+        "Cela dépend"
+      ]
+    },
+    {
+      "questionId": 42,
+      "question": "💥 Aimerais-tu une partie de baise sauvage / animale sans retenue ?",
+      "reponses": [
+        "Oui, j'adore ça",
+        "Oui, de temps en temps",
+        "Je ne sais pas",
+        "Non, je préfère la douceur"
+      ]
+    },
+    {
+      "questionId": 43,
+      "question": "🥵 Aimerais-tu être à moitié habillé(e) pendant l'acte (jupe, chemise ouverte) ?",
+      "reponses": [
+        "Oui, ça m'excite",
+        "Oui, parfois",
+        "Je ne sais pas",
+        "Non, tout enlever"
+      ]
+    },
+    {
+      "questionId": 44,
+      "question": "🍽️ Aimerais-tu que ton/ta partenaire te réveille avec une gâterie ?",
+      "reponses": [
+        "Oui, j'adore",
+        "Oui, de temps en temps",
+        "Je ne sais pas",
+        "Non"
+      ]
+    },
+    {
+      "questionId": 45,
+      "question": "😴 Que penses-tu du réveil coquin quand l'un dort ?",
+      "reponses": [
+        "J'adore être surpris(e)",
+        "Oui, si je suis prévenu(e)",
+        "Ça dépend de mon humeur",
+        "Non, ne me réveille pas"
+      ]
+    },
+    {
+      "questionId": 46,
+      "question": "🤫 Aimerais-tu te faire prendre sans prévenir, en pleine nuit ?",
+      "reponses": [
+        "Oui, ça m'excite",
+        "Oui, si je suis d'humeur",
+        "Oui, mais d'abord me chauffer",
+        "Non"
+      ]
+    },
+    {
+      "questionId": 47,
+      "question": "🚪 Aimerais-tu une partie rapide en rentrant, contre un mur / la porte d'entrée ?",
+      "reponses": [
+        "Oui, très excitant",
+        "Oui, parfois",
+        "Je ne sais pas",
+        "Non"
+      ]
+    },
+    {
+      "questionId": 48,
+      "question": "🛀 Aimerais-tu faire l'amour dans un bain / une douche ?",
+      "reponses": [
+        "Je le pratique déjà",
+        "Oui",
+        "Oui mais plus tard",
+        "Non"
+      ]
+    },
+    {
+      "questionId": 49,
+      "question": "🚿 Aimerais-tu qu'on prenne une douche ensemble avant/après l'acte ?",
+      "reponses": [
+        "Oui, avant",
+        "Oui, après",
+        "Oui, les deux",
+        "Non"
+      ]
+    },
+    {
+      "questionId": 50,
+      "question": "🌊 Quel est ton endroit (hors chambre) où tu aimerais faire l'amour ?",
+      "reponses": [
+        "Le salon",
+        "La cuisine",
+        "La salle de bain",
+        "Le toilette",
+        "Le bureau",
+        "Dans l'entrée",
+        "La cave",
+        "Le jardin/La terrasse",
+        "Autre"
+      ]
+    },
+    {
+      "questionId": 51,
+      "question": "🌶️ Aimerais-tu faire l'amour dans un endroit où le risque d'être vu(e) existe ?",
+      "reponses": [
+        "Oui, ça m'excite",
+        "Oui, si on fait en sorte de ne pas être vus",
+        "Je ne sais pas",
+        "Non, trop risqué"
+      ]
+    },
+    {
+      "questionId": 52,
+      "question": "💍 Aimerais-tu faire l'amour en public en étant discrets (cinéma, restaurant, extérieur...) ?",
+      "reponses": [
+        "Oui, ça m'excite",
+        "Oui, si on fait en sorte de ne pas se faire prendre",
+        "Je ne sais pas",
+        "Non"
+      ]
+    },
+    {
+      "questionId": 53,
+      "question": "🛞 Aimerais-tu une partie dans la voiture ?",
+      "reponses": [
+        "Oui",
+        "Oui mais plus tard",
+        "Je ne sais pas",
+        "Non"
+      ]
+    },
+    {
+      "questionId": 54,
+      "question": "🪞 Aimerais-tu faire l'amour devant un miroir ?",
+      "reponses": [
+        "Je le pratique déjà",
+        "Oui",
+        "Oui mais plus tard",
+        "Non"
+      ]
+    },
+    {
+      "questionId": 55,
+      "question": "🍑 Aimerais-tu essayer la sodomie ?",
+      "reponses": [
+        "Je la pratique déjà",
+        "Oui",
+        "Oui mais plus tard",
+        "Je ne sais pas",
+        "Non"
+      ]
+    },
+    {
+      "questionId": 56,
+      "question": "🍑 Si sodomie, aimerais-tu qu'elle soit douce ou intense ?",
+      "reponses": [
+        "Très douce et progressive",
+        "Douce",
+        "Intense",
+        "Très intense",
+        "Je ne souhaite pas la pratiquer"
+      ]
+    },
+    {
+      "questionId": 57,
+      "question": "🪝 Aimerais-tu essayer un plug anal lorsque tu fais l'amour ?",
+      "reponses": [
+        "Je le fais déjà",
+        "Oui, j'adore l'idée",
+        "Oui mais plus tard",
+        "Je ne sais pas",
+        "Non"
+      ]
+    },
+    {
+      "questionId": 58,
+      "question": "🎭 Quel rôle préfères-tu au lit ?",
+      "reponses": [
+        "Dominant(e)",
+        "Soumis(e)",
+        "Les deux selon l'humeur",
+        "Aucun, on reste égalitaire"
+      ]
+    },
+    {
+      "questionId": 59,
+      "question": "🎭 Aimerais-tu essayer des jeux de domination/soumission légers ?",
+      "reponses": [
+        "Je les pratique déjà",
+        "Oui",
+        "Oui mais plus tard",
+        "Je ne sais pas",
+        "Non"
+      ]
+    },
+    {
+      "questionId": 60,
+      "question": "🪢 Aimerais-tu essayer d'être attaché(e) / attacher ton/ta partenaire ?",
+      "reponses": [
+        "Oui, les deux",
+        "Oui, être attaché(e)",
+        "Oui, attacher",
+        "Oui mais plus tard",
+        "Non"
+      ]
+    },
+    {
+      "questionId": 61,
+      "question": "🙈 Aimerais-tu être bandé(e) des yeux ?",
+      "reponses": [
+        "Je le pratique déjà",
+        "Oui",
+        "Oui mais plus tard",
+        "Je ne sais pas",
+        "Non"
+      ]
+    },
+    {
+      "questionId": 62,
+      "question": "🖐️ Aimerais-tu recevoir/donner des fessées pendant l'acte ?",
+      "reponses": [
+        "Oui, en donner",
+        "Oui, ferme",
+        "Oui, de temps en temps",
+        "Oui, doucement",
+        "Non"
+      ]
+    },
+    {
+      "questionId": 63,
+      "question": "🥵 Aimerais-tu des clamps/pinces sur les tétons ?",
+      "reponses": [
+        "Je le pratique déjà",
+        "Oui, j'aimerais essayer",
+        "Oui mais plus tard",
+        "Non"
+      ]
+    },
+    {
+      "questionId": 64,
+      "question": "⏳ Aimerais-tu l'edging (être amené(e) au bord de l'orgasme puis stoppé(e)) ?",
+      "reponses": [
+        "Oui, plusieurs fois",
+        "Oui, une fois",
+        "Je ne sais pas",
+        "Non, je veux jouir vite"
+      ]
+    },
+    {
+      "questionId": 65,
+      "question": "💦 Comment préfères-tu que l'éjaculation se fasse ?",
+      "reponses": [
+        "Sur le ventre",
+        "Sur les seins",
+        "Sur la langue",
+        "Faciale",
+        "Creampie",
+        "Sur le dos",
+        "Sur les fesses",
+        "Autre (Préciser)"
+      ]
+    },
+    {
+      "questionId": 66,
+      "question": "💦 Aimerais-tu essayer la faciale ?",
+      "reponses": [
+        "Je la pratique déjà",
+        "Oui",
+        "Oui mais plus tard",
+        "Non"
+      ]
+    },
+    {
+      "questionId": 67,
+      "question": "🔄 Combien d'orgasmes aimerais-tu avoir par rapport ?",
+      "reponses": [
+        "Un, mais intense",
+        "Deux",
+        "Plusieurs",
+        "Peu importe"
+      ]
+    },
+    {
+      "questionId": 68,
+      "question": "🥵 Aimerais-tu continuer à être stimulé(e) juste après l'orgasme ?",
+      "reponses": [
+        "Oui, pour un second round",
+        "Oui, avec douceur",
+        "Ça dépend",
+        "Non, trop sensible"
+      ]
+    },
+    {
+      "questionId": 69,
+      "question": "🔇 Quand tu jouis, préfères-tu ?",
+      "reponses": [
+        "Crier sans retenue",
+        "Gémir fort",
+        "Gémir doucement",
+        "Rester silencieux(e)"
+      ]
+    },
+    {
+      "questionId": 70,
+      "question": "🌊 Que penses-tu du squirting (Femme fontaine) ?",
+      "reponses": [
+        "Je le pratique déjà",
+        "Oui, j'aimerais essayer",
+        "Oui, ça m'excite en théorie",
+        "Je ne sais pas",
+        "Non"
+      ]
+    },
+    {
+      "questionId": 71,
+      "question": "👗 Aimerais-tu porter de la lingerie / des tenues coquines pour ton/ta partenaire ?",
+      "reponses": [
+        "Oui, souvent",
+        "Oui, pour des occasions",
+        "Oui mais plus tard",
+        "Non"
+      ]
+    },
+    {
+      "questionId": 72,
+      "question": "🧸 Aimerais-tu introduire des sextoys dans vos rapports ?",
+      "reponses": [
+        "Oui, on en utilise déjà",
+        "Oui",
+        "Oui mais plus tard",
+        "Je ne sais pas",
+        "Non"
+      ]
+    },
+    {
+      "questionId": 73,
+      "question": "📳 Aimerais-tu essayer un sextoy télécommandé contrôlé par ton/ta partenaire ?",
+      "reponses": [
+        "Oui, au restaurant/soirée",
+        "Oui, à la maison",
+        "Oui mais plus tard",
+        "Non"
+      ]
+    },
+    {
+      "questionId": 74,
+      "question": "💆 Quel après-acte préfères-tu ?",
+      "reponses": [
+        "Câliner et parler",
+        "S'endormir dans les bras l'un de l'autre",
+        "Prendre une douche ensemble",
+        "Repartir pour un second round",
+        "Continuer à s'embrasser longuement",
+        "Chacun son espace"
+      ]
+    },
+    {
+      "questionId": 75,
+      "question": "💭 As-tu un fantasme particulier ?",
+      "reponses": [
+        "Oui, et je suis prêt(e) à le partager",
+        "Oui, mais pas encore",
+        "Non, tout est déjà dit",
+        "Non, je n'en ai pas"
+      ]
+    },
+    {
+      "questionId": 76,
+      "question": "🎭 Aimerais-tu faire un roleplay / un jeu de rôle avec ton/ta partenaire ?",
+      "reponses": [
+        "Oui",
+        "Oui mais plus tard",
+        "Je ne sais pas",
+        "Non"
+      ]
+    },
+    {
+      "questionId": 77,
+      "question": "👠 As-tu un fétichisme particulier ?",
+      "reponses": [
+        "Oui, et je veux le partager",
+        "Oui, mais je le garde pour moi",
+        "Peut-être, à explorer",
+        "Non"
+      ]
+    },
+    {
+      "questionId": 78,
+      "question": "🔥 Aimerais-tu essayer un plan à trois ou plus ?",
+      "reponses": [
+        "Oui",
+        "Oui, juste en fantasme",
+        "Je ne sais pas",
+        "Non"
+      ]
+    },
+    {
+      "questionId": 79,
+      "question": "👯 Aimerais-tu essayer le mélangisme / échangisme avec ton/ta partenaire ?",
+      "reponses": [
+        "Oui",
+        "Oui, juste en fantasme",
+        "Je ne sais pas",
+        "Non"
+      ]
+    },
+    {
+      "questionId": 80,
+      "question": "🔥 Quelle est la chose la plus excitante que tu aimerais faire avec ton/ta partenaire ?",
+      "reponses": [
+        "Un plan libertin (club, saunas...)",
+        "Une partie à trois",
+        "Une partie très soumise/dominée",
+        "Un shooting/vidéo ensemble",
+        "Le sexe en public discret",
+        "Autre (Préciser)"
+      ]
+    },
+    {
+      "questionId": 81,
+      "question": "🔥 As-tu prévu(e) de faire l'amour aujourd'hui ?",
+      "reponses": [
+        "Oui", 
+        "Peut-être",
+        "Si mon/ma partenaire me chauffe",
+        "Non"
+      ]
+    }    
+  ]
+}

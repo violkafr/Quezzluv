@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#100b12">
+
+    <title>QueezLuv - Apprivoisez votre moitié</title>
+
+    <link rel="stylesheet" href="style.css">
+    <script src="app.js" defer></script>
+</head>
+
+<body>
+
+    <div class="background-glow"></div>
+
+    <main class="container">
+
+        <header class="site-header">
+            <div class="logo">Queez<span>Luv</span></div>
+            <p class="header-subtitle">Apprivoisez votre moitié</p>
+        </header>
+
+        <!-- ACCUEIL -->
+        <section id="homeScreen" class="screen">
+
+            <div class="welcome-card">
+
+                <div class="welcome-icon">♥</div>
+
+                <h1>Apprenez à mieux connaître votre partenaire.</h1>
+
+                <p class="intro">
+                    80 questions qui prennent moins de 10 minutes à répondre.
+                    Découvrez les réponses de votre moitié et partagez vos résultats
+                    à la fin du questionnaire !
+                </p>
+
+                <div class="name-field">
+                    <label for="username">Votre prénom ou pseudo</label>
+                    <input
+                        type="text"
+                        id="username"
+                        placeholder="Entrez votre prénom..."
+                        maxlength="40"
+                    >
+                </div>
+
+                <button id="startButton" class="primary-button">
+                    Commencer le questionnaire
+                    <span>→</span>
+                </button>
+
+                <p class="small-note">
+                    Vos réponses sont sauvegardées automatiquement sur cet appareil.
+                </p>
+
+            </div>
+
+        </section>
+
+
+        <!-- QUESTIONNAIRE -->
+        <section id="quizScreen" class="screen hidden">
+
+            <div class="quiz-top">
+
+                <div class="progress-infos">
+                    <span id="questionCounter">Question 1 / 80</span>
+                    <span id="progressPercentage">0 %</span>
+                </div>
+
+                <div class="progress-bar">
+                    <div id="progressFill"></div>
+                </div>
+
+            </div>
+
+            <div class="question-card">
+
+                <div class="question-number" id="questionNumber">QUESTION 01</div>
+
+                <h2 id="questionTitle">Chargement de la question...</h2>
+
+                <p id="questionDescription" class="question-description hidden"></p>
+
+                <div id="answersContainer" class="answers-container"></div>
+
+                <div id="customAnswerContainer" class="custom-answer hidden">
+                    <label for="customAnswer">Précisez votre réponse :</label>
+                    <textarea
+                        id="customAnswer"
+                        placeholder="Écrivez votre réponse ici..."
+                        rows="3"
+                    ></textarea>
+                </div>
+
+            </div>
+
+            <div class="quiz-navigation">
+
+                <button id="previousButton" class="secondary-button">
+                    ← Précédent
+                </button>
+
+                <button id="nextButton" class="primary-button" disabled>
+                    Suivant →
+                </button>
+
+            </div>
+
+        </section>
+
+
+        <!-- RESULTATS -->
+        <section id="resultScreen" class="screen hidden">
+
+            <div class="result-card">
+
+                <div class="welcome-icon">♥</div>
+
+                <h1>Questionnaire terminé !</h1>
+
+                <p id="resultSubtitle" class="intro">
+                    Voici le récapitulatif de vos réponses.
+                </p>
+
+                <div id="recapContainer" class="recap-container"></div>
+
+                <div class="result-actions">
+
+                    <button id="copyButton" class="primary-button">
+                        Copier mes réponses
+                    </button>
+
+                    <button id="restartButton" class="secondary-button">
+                        Recommencer
+                    </button>
+
+                </div>
+
+                <p id="copyFeedback" class="small-note"></p>
+
+            </div>
+
+        </section>
+
+        <footer>
+            <p>QueezLuv ♥ Apprivoisez votre moitié</p>
+        </footer>
+
+    </main>
+
+</body>
+</html>
